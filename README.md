@@ -1,7 +1,9 @@
 #### This repo is for methods describing in the paper.
 Weng JS, Huang TY, “Deriving a robust deep-learning model for subcortical brain segmentation by using a large-scale database: Preprocessing, reproducibility, and accuracy of volume estimation” (2022), NMR in Biomedicine
 
-#### For updated models, please visit: https://github.com/htylab/tigerbx
+
+* This repo is only for GPU-based segmentation.
+* For updated models or CPU-based segmentation, please visit: https://github.com/htylab/tigerbx
 
 # Automated subcortical brain segmentation pipeline
 
