@@ -3,7 +3,7 @@ Weng JS, Huang TY, “Deriving a robust deep-learning model for subcortical brai
 
 
 * This repo is only for GPU-based segmentation.
-* For updated models or CPU-based segmentation, please visit: https://github.com/htylab/tigermr
+* For updated models or CPU-based segmentation, please visit: https://github.com/htylab/tigerbx
 
 # Automated subcortical brain segmentation pipeline
 
