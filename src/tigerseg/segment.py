@@ -18,7 +18,7 @@ from tigerseg.unet3d.metrics import (dice_coefficient, dice_coefficient_loss, di
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 warnings.filterwarnings("ignore", category=UserWarning)
-model_url = 'https://github.com/htylab/tigerseg/releases/download/0.1.0/unet_model.h5'
+model_url = 'https://github.com/htylab/SubcorticalBrainSeg/releases/download/0.1.0/unet_model.h5'
 
 
 from tensorflow.keras.models import load_model

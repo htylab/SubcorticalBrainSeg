@@ -2,6 +2,9 @@
 Weng JS, Huang TY, “Deriving a robust deep-learning model for subcortical brain segmentation by using a large-scale database: Preprocessing, reproducibility, and accuracy of volume estimation” (2022), NMR in Biomedicine
 
 
+#### We gratefully acknowledge the authors of the U-Net implementation:
+https://github.com/ellisdg/3DUnetCNN
+
 * This repo is only for GPU-based segmentation.
 * For updated models or CPU-based segmentation, please visit: https://github.com/htylab/tigerbx
 
@@ -15,7 +18,7 @@ This package provides trained 3D U-Net model for subcortical brain segmentation
 
 ### Install package
 
-    pip install https://github.com/htylab/Paper-SubcorticalBrainSeg/archive/main.zip 
+    pip install https://github.com/htylab/SubcorticalBrainSeg/archive/main.zip 
 
 ## Usage
 
