@@ -15,7 +15,7 @@ This package provides trained 3D U-Net model for subcortical brain segmentation
 
 ### Install package
 
-    pip install https://github.com/htylab/tigerseg/archive/main.zip 
+    pip install https://github.com/htylab/Paper-SubcorticalBrainSeg/archive/main.zip 
 
 ## Usage
 
